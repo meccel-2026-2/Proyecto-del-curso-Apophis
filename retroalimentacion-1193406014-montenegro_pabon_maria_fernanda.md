@@ -27,6 +27,7 @@
 - Nota de ritmo de commits (promedio): 4.50 / 5.0
 
 Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
+
 ## Retroalimentación
 
 - Archivo revisado: proyecto-del-curso-Apophis.ipynb
@@ -41,6 +42,9 @@ Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
 ### Aspectos por mejorar
 
 - La narrativa del notebook debe mejorar: muchas celdas de código no están antecedidas por explicación.
+- La instalación de los paquetes puede hacerse en una sola celda.
+- Las unidades escogidas UA, Msol, año no hacen que G = 1. Revisar.
+- Falto la aplicación de la teoría del CRTBP.
 
 ### Valoración global
 
