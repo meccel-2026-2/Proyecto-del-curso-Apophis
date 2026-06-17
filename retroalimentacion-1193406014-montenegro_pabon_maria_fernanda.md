@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- proyecto-del-curso-Apophis.ipynb (entregado)
+- proyecto-del-curso-Apophis.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
 
 ## Retroalimentación
 
-- Archivo revisado: proyecto-del-curso-Apophis.ipynb
+- Archivo revisado: proyecto-del-curso-Apophis.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -41,12 +41,22 @@ Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
 
 ### Aspectos por mejorar
 
-- La narrativa del notebook debe mejorar: muchas celdas de código no están antecedidas por explicación.
-- La instalación de los paquetes puede hacerse en una sola celda.
-- Las unidades escogidas UA, Msol, año no hacen que G = 1. Revisar.
-- Falto la aplicación de la teoría del CRTBP.
+- La narrativa del notebook debe mejorar: muchas celdas de código no están antecedidas por explicación. [No mejorado]
+- La instalación de los paquetes puede hacerse en una sola celda. [No mejorado]
+- Las unidades escogidas UA, Msol, año no hacen que G = 1. Revisar. [No mejorado]
+- Falto la aplicación de la teoría del CRTBP. [No mejorado]
 
 ### Valoración global
 
 - El trabajo tiene avances técnicos, pero necesita mejoras de fondo en comunicación de resultados y/o cumplimiento explícito del objetivo.
 - Estado de recepción: requiere cambios antes de recepción final.
+- Al trabajo final le aplica la aplicación de la teoría del problema de los tres cuerpos.
+
+## Valoración final
+
+- Mejoras implementadas: 0.00 (70%)
+- Aplicación al repositorio: 4.50 (10%)
+- Aspectos positivos: 2.50 (10%)
+- Valoración global: 1.50 (10%)
+
+**Nota final (redondeada)**: 0.7×0.00 + 0.1×4.50 + 0.1×2.50 + 0.1×1.50 = (redondeado) 0.9
